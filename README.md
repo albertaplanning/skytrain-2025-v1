@@ -81,7 +81,7 @@ The map displays a comprehensive route system connecting:
 - **Icons**: Leaflet default markers
 
 ## 📁 Project Structure
-
+```
 skytrain-2025-v1/
 ├── app/
 │ ├── components/
@@ -95,7 +95,7 @@ skytrain-2025-v1/
 ├── next.config.js # Next.js configuration
 ├── netlify.toml # Netlify deployment config
 └── README.md # This file
-
+```
 
 ## Acknowledgments
 OpenStreetMap for base map tiles
