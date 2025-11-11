@@ -63,7 +63,7 @@ This interactive map displays various important locations across Alberta (Calgar
 The map displays a comprehensive route system connecting:
 
 1. **Calgary to Edmonton Corridor**
-   - Calgary Airport → Airdrie → Crossfield → Carstairs → Didsbury → Olds → Bowden → Innisfail → Penhold → Red Deer Airport → Red Deer Polytechnic → Blackfalds → Lacombe → Ponoka → Maskwacis → Wetaskiwin → Millet → Leduc → University of Alberta
+   - Calgary Downtown (BowValley College) → Calgary Airport → Airdrie → Crossfield → Carstairs → Didsbury → Olds → Bowden → Innisfail → Penhold → Red Deer Airport → Red Deer Polytechnic → Blackfalds → Lacombe → Ponoka → Maskwacis → Wetaskiwin → Millet → Leduc → University of Alberta → West Edmonton Mall
 
 2. **Special Routes**
    - **Curved Routes**: 
